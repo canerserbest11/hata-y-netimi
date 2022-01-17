@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\console\hata yönetimi\bin\Debug\net6.0\hata yönetimi.exe
+C:\Users\Administrator\Documents\console\hata yönetimi\bin\Debug\net6.0\hata yönetimi.deps.json
+C:\Users\Administrator\Documents\console\hata yönetimi\bin\Debug\net6.0\hata yönetimi.runtimeconfig.json
+C:\Users\Administrator\Documents\console\hata yönetimi\bin\Debug\net6.0\hata yönetimi.dll
+C:\Users\Administrator\Documents\console\hata yönetimi\bin\Debug\net6.0\ref\hata yönetimi.dll
+C:\Users\Administrator\Documents\console\hata yönetimi\bin\Debug\net6.0\hata yönetimi.pdb
+C:\Users\Administrator\Documents\console\hata yönetimi\obj\Debug\net6.0\hata yönetimi.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\console\hata yönetimi\obj\Debug\net6.0\hata yönetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\console\hata yönetimi\obj\Debug\net6.0\hata yönetimi.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\console\hata yönetimi\obj\Debug\net6.0\hata yönetimi.AssemblyInfo.cs
+C:\Users\Administrator\Documents\console\hata yönetimi\obj\Debug\net6.0\hata yönetimi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\console\hata yönetimi\obj\Debug\net6.0\hata yönetimi.dll
+C:\Users\Administrator\Documents\console\hata yönetimi\obj\Debug\net6.0\ref\hata yönetimi.dll
+C:\Users\Administrator\Documents\console\hata yönetimi\obj\Debug\net6.0\hata yönetimi.pdb
+C:\Users\Administrator\Documents\console\hata yönetimi\obj\Debug\net6.0\hata yönetimi.genruntimeconfig.cache
